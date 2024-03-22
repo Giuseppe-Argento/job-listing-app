@@ -2,7 +2,7 @@ import JobListings from "../components/JobListings"
 
 const JobsPage = () => {
   return (
-    <JobListings/>
+    <JobListings />
   )
 }
 

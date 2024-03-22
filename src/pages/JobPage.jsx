@@ -89,7 +89,7 @@ const JobPage = () => {
                                 <h2 className="text-2xl">{job.company.name}</h2>
 
                                 <p className="my-2">
-{job.company.description}                                </p>
+                                    {job.company.description}                                </p>
 
                                 <hr className="my-4" />
 
