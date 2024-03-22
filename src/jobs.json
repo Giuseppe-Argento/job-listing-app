@@ -94,8 +94,22 @@
       "company": {
         "name": "Giuseppe argento",
         "description": "Hello my name is Giuseppe",
-        "email": "gaweb@gmail.com",
-        "phone": "999-9999"
+        "contactEmail": "gaweb@gmail.com",
+        "contactPhone": "999-9999"
+      }
+    },
+    {
+      "id": "7608",
+      "title": "Test 2",
+      "type": "Full-Time",
+      "location": "nbjlkj",
+      "description": "hljkhjk",
+      "salary": "Under $50K",
+      "company": {
+        "name": "knòlk",
+        "description": "lkhòlkh",
+        "contactEmail": "gaweb@gmail.com",
+        "contactPhone": ""
       }
     }
   ]
